@@ -1,5 +1,8 @@
 ### Hi there 👋
+- ☁️ I'm passionate about web development and UI/UX
+- 🕹 I'm currently learning game development
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheakimhengg)](https://github.com/cheakimhengg/github-readme-stats)
 <!--
 **cheakimhengg/cheakimhengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
