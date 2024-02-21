@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 ## Projects
 
 - Ecommerce-sanity-stripe: 
-  - Link to the project repository: (https://github.com/cheakimhengg/ecommerce-sanity-stripe)
+  - Link to the project repository: https://github.com/cheakimhengg/ecommerce-sanity-stripe
   - Demo: https://ecommerce-sanity-stripe-rhymjwwie-cheakimhengs-projects.vercel.app/
 
 Feel free to explore my repositories to see more of my work!
