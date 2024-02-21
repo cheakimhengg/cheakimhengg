@@ -29,8 +29,8 @@ Feel free to explore my repositories to see more of my work!
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
 - Email: cheakimhengg@gmail.com
-- LinkedIn: Chea KimHeng
-- Twitter: @cheakimhengg
+- LinkedIn: [Chea KimHeng](https://www.linkedin.com/in/chea-kimheng-b197452a2/)
+- Twitter: [@cheakimhengg](https://twitter.com/cheakimhengg)
 
 ## Let's Connect
 
