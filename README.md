@@ -1,8 +1,42 @@
-### Hi there 👋
-- ☁️ I'm passionate about web development and UI/UX
-- 🕹 I'm currently learning game development
+# Hi there! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheakimhengg)](https://github.com/cheakimhengg/github-readme-stats)
+Welcome to my GitHub profile! I'm passionate about web development and constantly striving to learn new technologies to make my projects look more professional.
+
+## About Me
+
+- 💻 I'm a web developer with a keen interest in frontend and backend technologies.
+- 🌱 Currently, I'm learning about the latest advancements in web development to enhance my skills.
+- 🔭 I’m currently working on E-Commerce Site.
+- 📫 How to reach me: cheakimhengg@gmail.com
+  
+## Technologies & Skills
+
+- **Frontend**: HTML, CSS, JavaScript, React.js, Vue.js Next.js
+- **Backend**: Node.js, Express.js, MongoDB, MySQL
+- **Tools & Frameworks**: Bootstrap, Tailwind CSS, Git, GitHub
+- **Other Skills**: Responsive Design, Accessibility, Testing & Debugging, Security
+
+## Projects
+
+- [Project 1]: Brief description or link to the project repository/demo.
+- [Project 2]: Brief description or link to the project repository/demo.
+- [Project 3]: Brief description or link to the project repository/demo.
+
+Feel free to explore my repositories to see more of my work!
+
+## Get in Touch
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
+
+- Email: cheakimhengg@gmail.com
+- LinkedIn: Chea KimHeng
+- Twitter: @cheakimhengg
+
+## Let's Connect
+
+Let's learn and grow together! Connect with me on GitHub to stay updated on my latest projects and contributions.
+
+(https://github-readme-stats.vercel.app/api?username=cheakimhengg)](https://github.com/cheakimhengg/github-readme-stats)
 <!--
 **cheakimhengg/cheakimhengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
