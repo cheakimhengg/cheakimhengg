@@ -18,9 +18,7 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 
 ## Projects
 
-- [Project 1]: Brief description or link to the project repository/demo.
-- [Project 2]: Brief description or link to the project repository/demo.
-- [Project 3]: Brief description or link to the project repository/demo.
+- Ecommerce-sanity-stripe : [Brief description or link to the project repository/demo.](https://github.com/cheakimhengg/ecommerce-sanity-stripe)/https://ecommerce-sanity-stripe-rhymjwwie-cheakimhengs-projects.vercel.app/
 
 Feel free to explore my repositories to see more of my work!
 
