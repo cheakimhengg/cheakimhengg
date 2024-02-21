@@ -36,7 +36,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 Let's learn and grow together! Connect with me on GitHub to stay updated on my latest projects and contributions.
 
-(https://github-readme-stats.vercel.app/api?username=cheakimhengg)](https://github.com/cheakimhengg/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheakimhengg)](https://github.com/cheakimhengg/github-readme-stats)
+
 <!--
 **cheakimhengg/cheakimhengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
