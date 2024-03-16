@@ -34,6 +34,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - Email: cheakimhengg@gmail.com
 - LinkedIn: [Chea KimHeng](https://www.linkedin.com/in/chea-kimheng-b197452a2/)
 - Twitter: [@cheakimhengg](https://twitter.com/cheakimhengg)
+- Facebook: https://www.facebook.com/profile.php?id=100011118937535&mibextid=YMEMSu
+- Telegram: @cheakimhengg
 
 ## Let's Connect
 
