@@ -21,7 +21,10 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 - Ecommerce-sanity-stripe: 
   - Link to the project repository: https://github.com/cheakimhengg/ecommerce-sanity-stripe
   - Demo: https://ecommerce-sanity-stripe-rhymjwwie-cheakimhengs-projects.vercel.app/
-
+- Ecommerce-store-nextjs13:
+  - Link to the project repository: https://github.com/cheakimhengg/ecommerce-store
+  - Demo: https://ecommerce-store-smoky-one.vercel.app/
+    
 Feel free to explore my repositories to see more of my work!
 
 ## Get in Touch
@@ -36,7 +39,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 Let's learn and grow together! Connect with me on GitHub to stay updated on my latest projects and contributions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheakimhengg)](https://github.com/cheakimhengg/github-readme-stats)
+
 
 <!--
 **cheakimhengg/cheakimhengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
