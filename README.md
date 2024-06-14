@@ -24,9 +24,6 @@ Passionate about crafting efficient and scalable solutions, I am a Junior Softwa
 - Ecommerce-store-nextjs13:
   - Link to the project repository: https://github.com/cheakimhengg/ecommerce-store
   - Demo: https://ecommerce-store-smoky-one.vercel.app/
-- Anime-Website:
-  - Link to the project repository: https://github.com/cheakimhengg/Anime-Website
-  - Demo: https://anime-website-cool.vercel.app/
     
 Feel free to explore my repositories to see more of my work!
 
