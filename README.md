@@ -2,7 +2,7 @@
 
 I am a Junior Software Engineer specializing in backend and frontend development, system analysis, and design. I thrive on collaborative projects and excel in integrating best practices to streamline workflows across the entire stack. Currently pursuing my education, I am committed to continuous learning and look forward to leveraging my skills to contribute to innovative endeavors in the software engineering landscape. Let's connect and explore opportunities for collaboration!
   
-## Technologies & Skills
+## 🛠️ Technologies & Skills
 
 - **Frontend**: Next.js React.js, Tailwind
 - **Backend**: Node.js, Express.js, Laravel
