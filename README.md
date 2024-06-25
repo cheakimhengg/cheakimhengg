@@ -1,13 +1,6 @@
-# Hi there! 👋
+# Hey, I'm Heng 👋
 
-Passionate about crafting efficient and scalable solutions, I am a Junior Software Engineer specializing in backend and frontend development, system analysis, and design. I thrive on collaborative projects and excel in integrating best practices to streamline workflows across the entire stack. Currently pursuing my education, I am committed to continuous learning and look forward to leveraging my skills to contribute to innovative endeavors in the software engineering landscape. Let's connect and explore opportunities for collaboration!
-
-## About Me
-
-- 💻 I'm a web developer with a keen interest in frontend and backend technologies.
-- 🌱 Currently, I'm learning about the latest advancements in web development to enhance my skills.
-- 🔭 I’m currently working on E-Commerce Site.
-- 📫 How to reach me: cheakimhengg@gmail.com
+I am a Junior Software Engineer specializing in backend and frontend development, system analysis, and design. I thrive on collaborative projects and excel in integrating best practices to streamline workflows across the entire stack. Currently pursuing my education, I am committed to continuous learning and look forward to leveraging my skills to contribute to innovative endeavors in the software engineering landscape. Let's connect and explore opportunities for collaboration!
   
 ## Technologies & Skills
 
@@ -35,7 +28,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - LinkedIn: [Chea KimHeng](https://www.linkedin.com/in/chea-kimheng-b197452a2/)
 - Twitter: [@cheakimhengg](https://twitter.com/cheakimhengg)
 - Facebook: https://www.facebook.com/profile.php?id=100011118937535&mibextid=YMEMSu
-- Telegram: [@cheakimhengg]
+- Telegram: https://t.me/cheakimhengg
 
 ## Let's Connect
 
